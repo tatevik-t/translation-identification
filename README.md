@@ -11,4 +11,4 @@ Trained XLM-RoBERTa models are in the [onnx](https://onnx.ai/) format are in the
 
 
 ## The code
-Code to run model is presented in [run_models.ipynb]() notebook.
+Code to run model is presented in [run_models.ipynb](run_models.ipynb) notebook.
