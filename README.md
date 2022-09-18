@@ -9,6 +9,3 @@ Translation identification task is to determine whether 2 sentences in different
 
 Trained XLM-RoBERTa models are in the [onnx](https://onnx.ai/) format are in the [google drive folder](https://drive.google.com/drive/folders/14G4Obufi3qg4NvscFB2AYAqR6ChgjPLG?usp=sharing).
 
-
-## The code
-Code to run model is presented in [run_models.ipynb](run_models.ipynb) notebook.
